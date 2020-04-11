@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>CiconiaPhase1</string>
+	<key>CFBundleExecutable</key>
+	<string>ciconia1</string>
+	<key>CFBundleIconFile</key>
+	<string>icon.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.wh07.ciconia1</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Ciconia When They Cry Phase 1</string>
+	<key>CFBundleVersion</key>
+	<string>2019 WH07</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.7</string>
+	<key>NSHighResolutionCapable</key>
+	<string>Yes</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+"Installscript"
+{
+	"version"	"2"
+	"chmod"
+	{
+		"0"
+		{
+			"file"	"CiconiaPhase1.app/Contents/MacOS/ciconia1"
+			"mode"	"755"
+		}
+	}
+}
