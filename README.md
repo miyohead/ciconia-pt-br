@@ -9,7 +9,7 @@ This repository is meant to be used to translate Ciconia Phase 1 and sequels fro
 Para instalar a versão mais atual do patch, vá até a página [Releases](https://github.com/JesterThirty4/ciconia-pt-br/releases) e baixe o .rar mais recente.
 Instruções de instalação estão contidas no README dentro do .rar
 
-To install, download the latest release on the[Releases](https://github.com/JesterThirty4/ciconia-pt-br/releases) page. More instructions on how to install are inside Ciconia PT_BR.rar
+To install, download the latest release on the [Releases](https://github.com/JesterThirty4/ciconia-pt-br/releases) page. More instructions on how to install are inside Ciconia PT_BR.rar
 
 # Estrutura do Repositório
 ## Repository structure
